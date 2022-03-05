@@ -1,0 +1,5 @@
+sub main() {
+    fmt:print("Hello, World!");
+};
+
+#bind("printf") sub fmt:print ();
